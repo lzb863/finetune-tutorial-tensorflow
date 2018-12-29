@@ -1,6 +1,6 @@
 # Finetune-tutorial-tensorflow
 
-该教程用于记录如何利用tensorflow进行finetune.
+该教程用于记录如何利用tensorflow进行finetune.教程基于Semantic Segmentation任务,采用[deeplab v3](https://arxiv.org/pdf/1706.05587v1.pdf)模型完成.
 
 ## 前言
 该项目的idea来自如何用原生的tensorflow来实现finetune.<br>
